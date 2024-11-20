@@ -11,3 +11,10 @@ h1{
     width: 30%;
     border-radius: 10% ;
 }
+.imagen{
+    text-align: center;
+}
+.imagen img{
+    width: 300px;
+    height: 200px;
+}
