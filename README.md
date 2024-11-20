@@ -9,6 +9,6 @@ _usando italic_
 ---
 [google](https://www.google.es)
 ---
-![alt icono](/dawAct4_1/img/logo.png)
+![alt icono](img/logo.png)
 ---
 `dir`
