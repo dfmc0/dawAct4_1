@@ -9,13 +9,10 @@ _usando italic_
 ---
 [google](https://www.google.es)
 ---
-_Mi página web_
+[Mi pagina web](https://dfmc0.github.io/dawAct4_1/)
+
 ---
-[Mi pagina web]([https://www.google.es](https://dfmc0.github.io/dawAct4_1/))
----
-_Mi Repositorio_
----
-[Mi Repositorio]([https://github.com/dfmc0/dawAct4_1])
+[Mi Repositorio](https://github.com/dfmc0/dawAct4_1)
 ---
 ![alt icono](img/logo.png)
 ---
